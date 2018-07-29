@@ -1,4 +1,4 @@
-package com.devcode.bita;
+package com.devcode.bita.Dao;
 
 import javax.transaction.Transactional;
 
